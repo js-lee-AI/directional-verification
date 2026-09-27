@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Directional Verification: code for Distilling Directional Verification"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Jungseob
+  - family-names: Eo
+    given-names: Sugyeong
+  - family-names: Hong
+    given-names: Seongtae
+  - family-names: Lee
+    given-names: Seungyoon
+  - family-names: Park
+    given-names: Chanjun
+  - family-names: Seo
+    given-names: Jaehyung
+  - family-names: Lim
+    given-names: Heuiseok
+repository-code: "https://github.com/js-lee-AI/directional-verification"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-28"
+keywords:
+  - "knowledge distillation"
+  - "reversal curse"
+  - "pseudo-labels"
+  - "masked diffusion"
+preferred-citation:
+  type: article
+  title: "Distilling Directional Verification"
+  authors:
+    - family-names: Lee
+      given-names: Jungseob
+    - family-names: Eo
+      given-names: Sugyeong
+    - family-names: Hong
+      given-names: Seongtae
+    - family-names: Lee
+      given-names: Seungyoon
+    - family-names: Park
+      given-names: Chanjun
+    - family-names: Seo
+      given-names: Jaehyung
+    - family-names: Lim
+      given-names: Heuiseok
+  year: 2026

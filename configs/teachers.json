@@ -1,0 +1,18 @@
+{
+  "qwen": {
+    "model": "Qwen/Qwen3-8B",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218"
+  },
+  "olmo": {
+    "model": "allenai/OLMo-2-1124-7B",
+    "revision": "7df9a82518afdecae4e8c026b27adccc8c1f0032"
+  },
+  "mistral": {
+    "model": "mistralai/Mistral-7B-v0.3",
+    "revision": "caa1feb0e54d415e2df31207e5f4e273e33509b1"
+  },
+  "llama": {
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "revision": "0e9e39f249a16976918f6564b8830bc894c89659"
+  }
+}
