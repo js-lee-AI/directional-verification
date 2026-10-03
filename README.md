@@ -5,6 +5,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.00997-b31b1b.svg)](https://arxiv.org/abs/2610.00997)
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow.svg)](https://huggingface.co/datasets/jungseob/directional-verification)
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -19,6 +20,7 @@
 
 ## News
 
+- **[2026-10-04]** The data is also on [Hugging Face Datasets](https://huggingface.co/datasets/jungseob/directional-verification) and loads with `load_dataset`.
 - **[2026-09-28]** Code released, with the bundled teacher scores and student outputs and scripts that check 587 values from the paper's tables.
 
 ## Overview
