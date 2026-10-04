@@ -5,6 +5,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.00997-b31b1b.svg)](https://arxiv.org/abs/2610.00997)
+[![Project Page](https://img.shields.io/badge/Project-Page-0043ca.svg)](https://js-lee-ai.github.io/directional-verification/)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Hugging%20Face-yellow.svg)](https://huggingface.co/datasets/jungseob/directional-verification)
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -12,7 +13,7 @@
 [![CI](https://github.com/js-lee-AI/directional-verification/actions/workflows/ci.yml/badge.svg)](https://github.com/js-lee-AI/directional-verification/actions/workflows/ci.yml)
 [![Stars](https://img.shields.io/github/stars/js-lee-AI/directional-verification?style=social)](https://github.com/js-lee-AI/directional-verification/stargazers)
 
-<b><a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#command-line">CLI</a> · <a href="#results">Results</a> · <a href="#reproduce-the-paper">Reproduce</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
+<b><a href="https://js-lee-ai.github.io/directional-verification/">Project Page</a> · <a href="#quick-start">Quick start</a> · <a href="#usage">Usage</a> · <a href="#command-line">CLI</a> · <a href="#results">Results</a> · <a href="#reproduce-the-paper">Reproduce</a> · <a href="#faq">FAQ</a> · <a href="#citation">Citation</a></b>
 
 </div>
 
